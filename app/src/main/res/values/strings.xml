@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Navigation Bar</string>
+
+<string name="my_profile">My Profile</string>
+
+<string name="setting">Setting</string>
+
+<string name="logout">Logout</string>
+
+<string name="nav_open">Open</string>
+
+<string name="nav_close">Close</string>
+
+<string name="header_layout">Header Layout</string>
+
+</resources>
